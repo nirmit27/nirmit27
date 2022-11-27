@@ -43,7 +43,3 @@ src="https://img.shields.io/github/followers/nirmit27?logo=github&style=for-the-
 <a href="http://www.github.com/nirmit27"><img src="https://activity-graph.herokuapp.com/graph?username=nirmit27&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/nirmit27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmit27&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/nirmit27/Web_Trib" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=Web_Trib&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nirmit27/Web_Calc" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=Web_Calc&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
