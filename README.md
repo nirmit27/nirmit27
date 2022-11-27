@@ -12,9 +12,6 @@ I've been learning coding for more than a year. I started off my coding journey 
 * 🤝  I'm open to collaborating on Web-development projects.
 * ⚡  I have a sweet tooth.
 
-<a href="https://www.github.com/nirmit27" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nirmit27?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
