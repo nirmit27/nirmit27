@@ -6,7 +6,7 @@ Computer Science Student
 
 I've been learning coding for more than a year. I started off my coding journey with C language after joining college and right now, I'm learning Front-end Web Development.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India.
 * ✉️  You can contact me at [http://mishrayyhsnm2002@gmail.com/](mailto:http://mishrayyhsnm2002@gmail.com/)
 * 🧠  I'm learning JavaScript, C++ and Python.
 * 🤝  I'm open to collaborating on Web-development projects.
