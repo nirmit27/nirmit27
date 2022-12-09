@@ -8,7 +8,7 @@ I've been learning coding for more than a year. I started off my coding journey 
 
 * 🌍  I'm based in Lucknow, India.
 * ✉️  You can contact me at [http://mishrayyhsnm2002@gmail.com/](mailto:http://mishrayyhsnm2002@gmail.com/)
-* 🧠  I'm learning HTML, CSS and JavaScript.
+* 🧠  I'm currently learning C++, HTML and JavaScript.
 * 🤝  I'm open to collaborating on Web-development projects.
 * ⚡  I have a sweet tooth.
 
