@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nirmit Mishra
 =====================================================================================================================================
 
-Computer Science Student
+Student
 ------------------------
 
 I've been learning coding for more than a year. I started off my coding journey with C language after joining college and right now, I'm learning Front-end Web Development.
