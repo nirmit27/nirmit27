@@ -13,7 +13,7 @@ I've been learning how to code for more than a year. I started off my coding jou
 * ⚡  I have a sweet tooth.
 
 <a href="https://www.github.com/nirmit27" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nirmit27?logo=github&style=for-the-badge&color=facc15&labelColor=312e81" /></a>
+src="https://img.shields.io/github/followers/nirmit27?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
 
 ### Skills
 
