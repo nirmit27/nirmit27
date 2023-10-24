@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>🌱 I’m currently learning C++ and Flutter
+🔭 I’m currently working on Flask<br>🌱 I’m currently learning C++ and Flask
 
 
 ## 🌐 Socials:
