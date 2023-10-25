@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flask<br>🌱 I’m currently learning C++ and Flask
+🔭 I’m currently working on tkinter<br>🌱 I’m currently learning C++ and DS
 
 
 ## 🌐 Socials:
