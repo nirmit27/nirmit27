@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on tkinter.<br>🌱 I’m currently learning C++ and DS.
+🔭 I’m currently working on **Streamlit**.<br>🌱 I’m currently learning C++ and Data Scienc.
 
 
 ## 🌐 Socials:
