@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Streamlit**.<br>🌱 I’m currently learning C++ and Data Scienc.
+🔭 I’m currently working on **Streamlit**.<br>🌱 I’m currently learning **C++** and **Data Science**.
 
 
 ## 🌐 Socials:
