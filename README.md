@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mishranirmit27@gmail.com**
 
-- ⚡ Fun fact **I am very curious by nature.**
+- ⚡ Fun fact... **I am very curious by nature.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
