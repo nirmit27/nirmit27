@@ -8,8 +8,8 @@ I like to code in **Python**, but I also have a thing for some statically-typed 
 
 * 🌍  I'm based in Lucknow, India.
 * ✉️  You can contact me at [mishrayyhsnm2002@gmail.com](mailto:mishrayyhsnm2002@gmail.com)
-* 🧠  I'm learning Data Science and Machine Learning.
-* 🤝  I'm open to collaborating on Kaggle competitions.
+* 🧠  I'm currently learning **Data Science** and **Machine Learning**.
+* 🤝  I'm open to collaborating on **Kaggle** competitions.
 * ⚡  I don't like OOP, **but ...**
 
 ### Skills
