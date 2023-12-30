@@ -33,7 +33,7 @@ I like to code in **Python**, but I also have a thing for some statically-typed 
 
 <a align="center" href="http://www.github.com/nirmit27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmit27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a align="center" href="http://www.github.com/nirmit27"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nirmit27&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirmit27&theme_name=react_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a align="center" href="https://github.com/nirmit27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmit27&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
