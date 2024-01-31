@@ -1,16 +1,16 @@
 Hi 👋 My name is Nirmit Mishra
 ==============================
 
-CS Student
-----------
+Data Science and Machine Learning enthusiast
+--------------------------------------------
 
 I like to code in **Python**, but I also have a thing for some statically-typed languages.
 
-* 🌍  I'm based in Lucknow, India.
+* 🌍  I'm based in Lucknow, Bharat.
 * ✉️  You can contact me at [mishrayyhsnm2002@gmail.com](mailto:mishrayyhsnm2002@gmail.com)
 * 🧠  I'm currently learning **Data Science** and **Machine Learning**.
 * 🤝  I'm open to collaborating on **Kaggle** competitions.
-* ⚡  I don't like OOP, **but ...**
+* ⚡  I have a **sweet tooth**. 😊
 
 ### Skills
 
