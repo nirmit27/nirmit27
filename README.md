@@ -26,7 +26,7 @@ I like to code in **Python**, but I also have a thing for some statically-typed 
 
 ### Badges
 
-<p align="center>
+<p>
 <b>My GitHub Stats</b>
 
 <a align="center" href="http://www.github.com/nirmit27"><img src="https://github-readme-stats.vercel.app/api?username=nirmit27&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nirmit27's GitHub stats" /></a>
