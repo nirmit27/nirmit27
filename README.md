@@ -29,7 +29,7 @@ I am a **CS** undergraduate student who is passionate about **Machine Learning**
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirmit27&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmit27&layout=donut&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmit27&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
 ### Top Repositories
 
