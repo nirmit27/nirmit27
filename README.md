@@ -19,7 +19,7 @@ I am a **CS** undergraduate student who is passionate about **Machine Learning**
 
 | Languages | Technologies |
 | --------- | ------------ |
-| [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,markdown&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,mongodb,vercel,flask,sklearn,anaconda,vscode,git&theme=dark)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,markdown&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,mongodb,postman,flask,sklearn,anaconda,vscode,git&theme=dark)](https://skillicons.dev) |
 
 
 ### GitHub Stats
