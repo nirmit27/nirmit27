@@ -17,9 +17,9 @@ I am a **CS** undergraduate student who is passionate about **Machine Learning**
 
 ### Skills
 
-| Languages | Technologies |
+| Languages | Frameworks and Tools |
 | --------- | ------------ |
-| [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,markdown&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,mongodb,postman,flask,sklearn,anaconda,vscode,git&theme=dark)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,markdown&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,postman,vercel,flask,sklearn,anaconda,vscode,git&theme=dark&perline=6)](https://skillicons.dev) |
 
 
 ### GitHub Stats
@@ -32,7 +32,6 @@ I am a **CS** undergraduate student who is passionate about **Machine Learning**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmit27&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
 ### Top Repositories
-
-| <a href="https://github.com/nirmit27/NLP-Text-Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=NLP-Text-Analyzer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> | <a href="https://github.com/nirmit27/Book-Recommender-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=Book-Recommender-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> |
-| --- | --- |
+<a href="https://github.com/nirmit27/NLP-Text-Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=NLP-Text-Analyzer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/nirmit27/Book-Recommender-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=Book-Recommender-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
