@@ -21,10 +21,9 @@ I am a **CS** undergraduate student who is passionate about **Machine Learning**
 | --------- | ------------ |
 | [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,markdown&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,postman,vercel,flask,sklearn,anaconda,vscode,git&theme=dark&perline=6)](https://skillicons.dev) |
 
-
 ### GitHub Stats
 
-| <a href="http://www.github.com/nirmit27"><img src="https://github-readme-stats.vercel.app/api?username=nirmit27&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nirmit27's GitHub stats" /></a> | <a href="http://www.github.com/nirmit27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmit27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
+| <a href="http://www.github.com/nirmit27"><img src="https://github-readme-stats.vercel.app/api?username=nirmit27&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nirmit27's GitHub stats" /></a> | <a href="http://www.github.com/nirmit27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmit27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />GitHub Streak</a> |
 | ------------- | ------------- |
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirmit27&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/ashutosh00710/github-readme-activity-graph)
