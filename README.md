@@ -3,8 +3,7 @@ Hello there, I am Nirmit 👋
 
 I am a **CS** undergraduate student who is passionate about **Machine Learning** and **Back-end Web Development**. My aim is to create **minimalistic** yet **interactive** web applications with the integration of Machine Learning models to solve complex problems.
 
-* 🤝  I'm open to collaborating on [Kaggle Competitions](https://www.kaggle.com/competitions).
-* ✉️  You can contact me at [mishrayyhsnm2002@gmail.com](mailto:mishrayyhsnm2002@gmail.com).
+✉️  You can contact me at [mishrayyhsnm2002@gmail.com](mailto:mishrayyhsnm2002@gmail.com).
   
 ---
 
