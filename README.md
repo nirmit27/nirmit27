@@ -3,7 +3,7 @@ Hello there, I am Nirmit 👋
 
 I am a **CS** undergraduate student who is passionate about **Machine Learning** and **Back-end Web Development**. My aim is to create **minimalistic** yet **interactive** web applications with the integration of Machine Learning models to solve complex problems.
 
-✉️  You can contact me at [mishrayyhsnm2002@gmail.com](mailto:mishrayyhsnm2002@gmail.com).
+✉️ You can contact me at [mishrayyhsnm2002@gmail.com](mailto:mishrayyhsnm2002@gmail.com).
   
 ---
 
@@ -11,7 +11,6 @@ I am a **CS** undergraduate student who is passionate about **Machine Learning**
 
 [![Twitter Profile](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nirmit27)&nbsp;
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmit-mishra-0a0b6a224/)&nbsp;
-[![Kaggle Profile](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nirmit27)&nbsp;
 [![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/mishrayyhsnm2002/)
 
 ### Skills
