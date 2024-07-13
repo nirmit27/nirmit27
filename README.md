@@ -31,3 +31,5 @@ I am an undergraduate **CS** student who is passionate about **Machine Learning*
 &nbsp;&nbsp;
 <a href="https://github.com/nirmit27/Book-Recommender-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=Book-Recommender-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
+---
+[![](https://visitcount.itsvg.in/api?id=nirmit27&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
