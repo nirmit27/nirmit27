@@ -35,6 +35,4 @@ I am an undergraduate **CS** student who is passionate about **Machine Learning*
 
 ---
 
-[![An image of @nirmit27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nirmit27)](https://holopin.io/@nirmit27)
-
 [![](https://visitcount.itsvg.in/api?id=nirmit27&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
