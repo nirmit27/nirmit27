@@ -35,4 +35,4 @@ I am an undergraduate **CS** student who is passionate about **Machine Learning*
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=nirmit27&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=nirmit27&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in) -->
