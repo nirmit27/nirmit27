@@ -15,7 +15,7 @@ I am an undergraduate **CS** student who is passionate about **Machine Learning*
 
 | Languages | Frameworks and Tools |
 | --------- | ------------ |
-| [![My Skills](https://skillicons.dev/icons?i=c,python,java,mysql,html,css,js,markdown&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,postman,vercel,flask,fastapi,sklearn,tensorflow,anaconda,vscode,git&theme=dark&perline=7)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=c,python,java,mysql,html,css,js,markdown&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,postman,vercel,flask,fastapi,sklearn,pytorch,anaconda,vscode,git&theme=dark&perline=7)](https://skillicons.dev) |
 
 ## 📊 GitHub Stats:
 
@@ -29,7 +29,7 @@ I am an undergraduate **CS** student who is passionate about **Machine Learning*
 -->
 
 ## 💫 Top Repositories:
-<a href="https://github.com/nirmit27/NLP-Text-Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=NLP-Text-Analyzer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/nirmit27/gemini-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=gemini-ai&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 &nbsp;&nbsp;
 <a href="https://github.com/nirmit27/Book-Recommender-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=Book-Recommender-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
