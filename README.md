@@ -1,1 +1,1 @@
-I write **Python** ... with type-aliasing.
+I write **Python** ... with type aliasing.
