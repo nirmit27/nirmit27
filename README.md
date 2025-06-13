@@ -1,16 +1,19 @@
-# Hello there, I am Nirmit 👋
+<!-- # Hello there, I am Nirmit 👋 -->
 
-I write **Python**... with type-aliasing. 🤓
+I write **Python**... with type-aliasing.
 
+<!--
 ## 🌐 Social Profiles:
 
 [![Twitter Profile](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nirmit27)&nbsp;
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmit-m-0a0b6a224/)&nbsp;
 [![Kaggle Profile](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nirmit27)
+-->
 <!--
 [![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/nirmit27/)
 -->
 
+<!--
 ## 💻 Tech Stack:
 
 | Languages | Frameworks and Tools |
@@ -28,6 +31,7 @@ I write **Python**... with type-aliasing. 🤓
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirmit27&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
+<!--
 ## 💫 Top Repositories:
 <a href="https://github.com/nirmit27/gemini-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=gemini-ai&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 &nbsp;&nbsp;
