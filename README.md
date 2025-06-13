@@ -1,6 +1,6 @@
 # Hello there, I am Nirmit 👋
 
-I am an undergraduate **CS** student who is passionate about **Machine Learning** and **Back-end Web Development**. My aim is to create **minimalistic** yet **interactive** web applications with the integration of Machine Learning models to solve real-world problems.
+I write **Python**... with type-aliasing. 🤓
 
 ## 🌐 Social Profiles:
 
