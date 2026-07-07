@@ -15,8 +15,14 @@
     <td width="260" align="center">
       <img src="./assets/nirmit27-gitfut.png" width="240">
     </td>
-    <td align="center">
-      <img src="https://wakatime.com/share/@8e9d611f-db3b-44fb-87f6-56f3437ff357/a193d559-bd1d-4f96-aa0d-7439824f84c8.svg" width="620">
+    <td width="640" align="center">
+      <img src="./assets/dystopia.jpg">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="260" align="center" colspan="2">
+      <img src="https://wakatime.com/share/@8e9d611f-db3b-44fb-87f6-56f3437ff357/a193d559-bd1d-4f96-aa0d-7439824f84c8.svg" width="900">
     </td>
   </tr>
 
