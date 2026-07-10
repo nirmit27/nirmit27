@@ -21,8 +21,8 @@
       <img src="https://res.cloudinary.com/bqscvdxr/image/upload/f_auto,q_auto/nirmit27-gitfut_j1gfka" width="300">
     </td>
     <!-- WakaTime - Language -->
-    <td width="600" height="400" align="center">
-      <img src="https://wakatime.com/share/@8e9d611f-db3b-44fb-87f6-56f3437ff357/1d6333b2-8153-4c63-b1cd-062aab695638.svg">
+    <td align="center">
+      <img src="https://wakatime.com/share/@8e9d611f-db3b-44fb-87f6-56f3437ff357/1d6333b2-8153-4c63-b1cd-062aab695638.svg" width="600">
     </td>
   </tr>
 
